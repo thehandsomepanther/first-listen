@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "slimerjs": "^0.906.2"
+    "node-slimerjs": "^1.0.1",
+    "request": "^2.74.0",
+    "slimerjs": "^0.906.2",
+    "xvfb": "^0.2.3"
   },
   "devDependencies": {},
   "scripts": {
